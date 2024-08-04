@@ -6,7 +6,7 @@
 
 ## Project Background
 
-As a fintech engineer at one of the world's largest banks, you were recently promoted to lead the decentralized finance team. Your primary task is to develop a blockchain-based ledger system with a user-friendly web interface. This system is designed to facilitate financial transactions between partner banks and ensure data integrity.
+The primary task of this project is to develop a blockchain-based ledger system with a user-friendly web interface. This system is designed to facilitate financial transactions between partner banks and ensure data integrity.
 
 ---
 This Streamlit application simulates a blockchain ledger, enabling users to conduct financial transactions and verify data integrity.
